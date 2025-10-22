@@ -1,0 +1,20 @@
+2025-10-22 18:46:44.569 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 22ms.
+2025-10-22 18:46:45.859 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-22 18:46:48.883 [info] Started local extension host with pid 3882.
+2025-10-22 18:46:57.872 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-22 18:46:59.240 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-22 18:47:00.558 [info] [perf] Render performance baseline is 551ms
+2025-10-22 18:51:57.895 [error] Cancelled: Canceled: Canceled
+    at BJe.P (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:36760)
+    at async BJe.O (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:35489)
+    at async BJe.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:24298)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:23769
+    at async Promise.all (index 0)
+    at async BJe.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:23720)
+    at async BJe.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1352:22377)
+    at async Hht.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2485:15150)
+    at async kqs.Rc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2481:17026)
+    at async kqs.$c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2481:19670)
+2025-10-22 18:53:10.074 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-22 18:58:08.109 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-22 19:03:10.190 [error] An unknown error occurred. Please consult the log for more details.

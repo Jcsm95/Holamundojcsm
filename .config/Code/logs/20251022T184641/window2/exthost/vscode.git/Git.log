@@ -1,0 +1,72 @@
+2025-10-22 18:47:06.501 [info] [main] Log level: Info
+2025-10-22 18:47:06.501 [info] [main] Validating found git in: "git"
+2025-10-22 18:47:06.501 [info] [main] Using git "2.43.0" from "git"
+2025-10-22 18:47:06.501 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-22 18:47:06.501 [info] > git rev-parse --show-toplevel [25ms]
+2025-10-22 18:47:06.501 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.519 [info] > git rev-parse --show-toplevel [4ms]
+2025-10-22 18:47:06.519 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.537 [info] > git rev-parse --show-toplevel [6ms]
+2025-10-22 18:47:06.538 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.544 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-22 18:47:06.545 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.550 [info] > git rev-parse --show-toplevel [0ms]
+2025-10-22 18:47:06.552 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.560 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-22 18:47:06.561 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.568 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-22 18:47:06.568 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.574 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-22 18:47:06.575 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.586 [info] > git rev-parse --show-toplevel [4ms]
+2025-10-22 18:47:06.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.594 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-22 18:47:06.595 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.606 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-22 18:47:06.607 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.617 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-22 18:47:06.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.627 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-22 18:47:06.627 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.636 [info] > git rev-parse --show-toplevel [4ms]
+2025-10-22 18:47:06.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.646 [info] > git rev-parse --show-toplevel [0ms]
+2025-10-22 18:47:06.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:47:06.649 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-22 18:51:43.968 [info] > git rev-parse --show-toplevel [6ms]
+2025-10-22 18:51:43.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:52:12.703 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jcsm/.vscode/extensions/.0c2ffe9c-ef75-40a2-8386-50ec8294c6f6/". Error:Error: ENOENT: no such file or directory, realpath '/home/jcsm/.vscode/extensions/.0c2ffe9c-ef75-40a2-8386-50ec8294c6f6/'
+2025-10-22 18:52:13.214 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-22 18:52:13.214 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:52:15.128 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jcsm/.vscode/extensions/.d9f0460e-4cdb-4b85-b832-542add11b0b2/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error:Error: ENOENT: no such file or directory, realpath '/home/jcsm/.vscode/extensions/.d9f0460e-4cdb-4b85-b832-542add11b0b2/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2025-10-22 18:52:37.363 [info] > git rev-parse --show-toplevel [17ms]
+2025-10-22 18:52:37.363 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:52:37.690 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-22 18:52:37.690 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:52:44.709 [info] > git rev-parse --show-toplevel [26ms]
+2025-10-22 18:52:44.718 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 18:52:53.098 [info] > git rev-parse --show-toplevel [13ms]
+2025-10-22 18:52:53.098 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 19:02:46.009 [info] > git rev-parse --show-toplevel [6ms]
+2025-10-22 19:02:46.011 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-22 19:03:18.059 [info] > git rev-parse --show-toplevel [1ms]
+2025-10-22 19:03:18.092 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [24ms]
+2025-10-22 19:03:18.124 [info] [Model][openRepository] Opened repository (path): /home/jcsm
+2025-10-22 19:03:18.125 [info] [Model][openRepository] Opened repository (real path): /home/jcsm
+2025-10-22 19:03:18.125 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-22 19:03:18.147 [info] > git config --get commit.template [3ms]
+2025-10-22 19:03:18.158 [info] [Git][getRemotes] No remotes found in the git config file
+2025-10-22 19:03:18.164 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-10-22 19:03:18.165 [warning] [Git][getBranch] No such branch: master
+2025-10-22 19:03:18.197 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-10-22 19:03:18.724 [info] > git check-ignore -v -z --stdin [3ms]
+2025-10-22 19:03:19.164 [info] > git status -z -uall [990ms] (cancelled)
+2025-10-22 19:03:21.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1950ms]
+2025-10-22 19:03:21.106 [warning] [Git][getBranch] No such branch: master
+2025-10-22 19:03:21.106 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-10-22 19:03:21.111 [info] > git config --get commit.template [9ms]
+2025-10-22 19:03:21.141 [info] [Git][getRemotes] No remotes found in the git config file
+2025-10-22 19:03:21.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2025-10-22 19:03:21.162 [warning] [Git][getBranch] No such branch: master
+2025-10-22 19:03:21.234 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2025-10-22 19:03:21.787 [info] > git status -z -uall [589ms] (cancelled)

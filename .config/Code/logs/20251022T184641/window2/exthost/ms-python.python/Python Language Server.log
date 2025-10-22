@@ -1,0 +1,32 @@
+2025-10-22 18:52:47.023 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.16.0)
+2025-10-22 18:52:52.236 [info] (4218) Server root directory: file:///home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-22 18:52:52.243 [info] (4218) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-22 18:52:52.297 [info] (4218) Starting service instance "jcsm" for workspace "/home/jcsm"
+2025-10-22 18:52:53.150 [info] (4218) Setting environmentName for service "jcsm": "3.12.4 (global)"
+2025-10-22 18:52:53.153 [info] (4218) Setting pythonPath for service "jcsm": "/usr/bin/python3.12"
+2025-10-22 18:52:53.153 [info] (4218) No include entries specified; assuming /home/jcsm
+2025-10-22 18:52:53.153 [info] (4218) Auto-excluding **/node_modules
+2025-10-22 18:52:53.154 [info] (4218) Auto-excluding **/__pycache__
+2025-10-22 18:52:53.154 [info] (4218) Auto-excluding **/.*
+2025-10-22 18:52:53.398 [info] (4218) Assuming Python version 3.12.4.final.0
+2025-10-22 18:52:59.480 [info] (4218) Found 1 source file
+2025-10-22 18:52:59.741 [info] (4218) Settings have not changed. Skipping update.
+2025-10-22 18:52:59.822 [info] (4218) Starting Mcp server id:4681 ...
+2025-10-22 18:53:03.142 [info] (4218) [FG] Long operation: parsing: file:///home/jcsm/app.py (3005ms)
+2025-10-22 18:53:04.107 [info] (4218) BG: Priority queue background worker(2) root directory: file:///home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-22 18:53:04.107 [info] (4218) BG: Priority queue background worker(2) started
+2025-10-22 18:53:07.880 [info] (4218) BG: Indexer background runner(3) root directory: file:///home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist (index)
+2025-10-22 18:53:07.885 [info] (4218) BG: Indexing(3) started
+2025-10-22 18:53:12.899 [info] (4218) BG: [BG(1)] Long operation: parsing: file:///home/jcsm/app.py (5887ms)
+2025-10-22 18:53:14.642 [info] (4218) BG: [BG(1)] Long operation: SemanticTokens range 0:0 - 11:0 at file:///home/jcsm/app.py (7678ms)
+2025-10-22 18:53:19.167 [info] (4218) BG: [BG(1)] Long operation: checking: file:///home/jcsm/app.py (4456ms)
+2025-10-22 18:53:19.167 [info] (4218) BG: [BG(1)] Long operation: analyzing: file:///home/jcsm/app.py (4474ms)
+2025-10-22 18:53:30.380 [info] (4218) BG: [IDX(3)] Long operation: scan packages file:///home/jcsm (15930ms)
+2025-10-22 18:53:30.380 [info] (4218) BG: scanned(3) 1422 files over 1 exec env
+2025-10-22 18:53:51.264 [info] (4218) BG: [IDX(3)] Long operation: indexing: file:///home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/bundled/stubs/sympy-stubs/__init__.pyi (6262ms)
+2025-10-22 18:54:02.954 [info] (4218) BG: [IDX(3)] Long operation: binding: file:///usr/lib/python3/dist-packages/pyqtgraph/__init__.py (2060ms)
+2025-10-22 18:54:02.955 [info] (4218) BG: [IDX(3)] Long operation: indexing: file:///usr/lib/python3/dist-packages/pyqtgraph/__init__.py (2108ms)
+2025-10-22 18:54:06.829 [info] (4218) BG: [IDX(3)] Long operation: index execution environment file:///home/jcsm (35081ms)
+2025-10-22 18:54:07.160 [info] (4218) BG: [IDX(3)] Long operation: index packages file:///home/jcsm (35607ms)
+2025-10-22 18:54:07.164 [info] (4218) BG: indexed(3) 1422 files over 1 exec env
+2025-10-22 18:54:09.959 [info] (4218) BG: Indexing finished(3).

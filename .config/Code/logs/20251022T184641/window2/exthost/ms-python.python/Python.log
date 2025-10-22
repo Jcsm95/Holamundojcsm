@@ -1,0 +1,8 @@
+2025-10-22 18:52:41.517 [info] Native locator: Refresh started
+2025-10-22 18:52:44.160 [info] Native locator: Refresh started
+2025-10-22 18:52:44.651 [info] > pyenv which python
+2025-10-22 18:52:44.661 [info] cwd: .
+2025-10-22 18:52:45.972 [info] Native locator: Refresh finished in 4447 ms
+2025-10-22 18:52:46.127 [info] Python interpreter path: /usr/bin/python3.12
+2025-10-22 18:52:52.615 [info] Starting Pylance language server.
+2025-10-22 18:53:08.072 [info] Discover tests for workspace name: jcsm - uri: /home/jcsm/app.py

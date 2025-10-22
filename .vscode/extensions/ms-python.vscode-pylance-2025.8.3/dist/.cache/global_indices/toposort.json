@@ -1,0 +1,1 @@
+[[[0,"/home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/typeshed-fallback/stubs/toposort/toposort.pyi","","",null,1],[false,[["_KT_co",1,13,null],["_VT_co",1,13,null],["_T",1,14,null],["_SupportsItemsAndLen",1,5,null],["CircularDependencyError",3,5,null],["toposort",3,12,null],["toposort_flatten",3,12,null],["__all__",1,13,null]]]]]
