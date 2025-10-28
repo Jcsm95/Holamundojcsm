@@ -1,1 +1,0 @@
-[[[0,"/home/jcsm/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/typeshed-fallback/stubs/python-crontab/cronlog.pyi","","",null,1],[false,[["MATCHER",1,14,null],["LogReader",1,5,null],["cron_date_to_datetime",1,12,null],["CronLog",1,5,null],["ProgramLog",1,5,null]]]]]

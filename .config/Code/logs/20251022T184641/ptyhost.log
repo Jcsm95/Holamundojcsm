@@ -1,1 +1,0 @@
-2025-10-22 18:52:47.203 [error] Failed to set sticky bit on /tmp/jcsm-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/jcsm-code-zsh'

@@ -1,1 +1,0 @@
-[[[0,"/usr/lib/python3/dist-packages/txaio/__init__.py","","",null,1],[false,[["IFailedFuture",3,2,["IFailedFuture",[0,"/usr/lib/python3/dist-packages/txaio/interfaces.py","","",null,1],5]],["ILogger",3,2,["ILogger",[0,"/usr/lib/python3/dist-packages/txaio/interfaces.py","","",null,1],5]],["use_twisted",3,12,null],["use_asyncio",3,12,null]]]]]
